@@ -1,0 +1,274 @@
+[
+  {
+    "route": "1",
+    "arrival": "0",
+    "arrivalTime": "15:31",
+    "destination": "кв.\" Коматево\"- последна спирка",
+    "color": "#63972E",
+    "contrastColor": "white"
+  },
+  {
+    "route": "27",
+    "arrival": "0",
+    "arrivalTime": "15:30",
+    "destination": "кв.\" Коматево\"- последна спирка",
+    "color": "#EC7475",
+    "contrastColor": "black"
+  },
+  {
+    "route": "99",
+    "arrival": "1",
+    "arrivalTime": "15:32",
+    "destination": "2-ра Авто колона",
+    "color": "#17B2AE",
+    "contrastColor": "black"
+  },
+  {
+    "route": "37",
+    "arrival": "2",
+    "arrivalTime": "15:33",
+    "destination": "ЕАЗ - \"Цар Борис ІІІ\"",
+    "color": "#008CD3",
+    "contrastColor": "white"
+  },
+  {
+    "route": "1",
+    "arrival": "6",
+    "arrivalTime": "15:37",
+    "destination": "кв.\" Коматево\"- последна спирка",
+    "color": "#63972E",
+    "contrastColor": "white"
+  },
+  {
+    "route": "4",
+    "arrival": "10",
+    "arrivalTime": "15:41",
+    "destination": "кв.\"Тракия\" (А-13)",
+    "color": "#A76380",
+    "contrastColor": "white"
+  },
+  {
+    "route": "99",
+    "arrival": "13",
+    "arrivalTime": "15:44",
+    "destination": "2-ра Авто колона",
+    "color": "#17B2AE",
+    "contrastColor": "black"
+  },
+  {
+    "route": "11",
+    "arrival": "16",
+    "arrivalTime": "15:47",
+    "destination": "след Митница Кукленско шосе",
+    "color": "#393186",
+    "contrastColor": "white"
+  },
+  {
+    "route": "20",
+    "arrival": "20",
+    "arrivalTime": "15:51",
+    "destination": "кв.\" Коматево\"- последна спирка",
+    "color": "#008CD3",
+    "contrastColor": "white"
+  },
+  {
+    "route": "4",
+    "arrival": "22",
+    "arrivalTime": "15:53",
+    "destination": "кв.\"Тракия\" (А-13)",
+    "color": "#A76380",
+    "contrastColor": "white"
+  },
+  {
+    "route": "11",
+    "arrival": "23",
+    "arrivalTime": "15:54",
+    "destination": "след Митница Кукленско шосе",
+    "color": "#393186",
+    "contrastColor": "white"
+  },
+  {
+    "route": "7",
+    "arrival": "24",
+    "arrivalTime": "15:55",
+    "destination": "Овощарски институт",
+    "color": "#A92482",
+    "contrastColor": "white"
+  },
+  {
+    "route": "44",
+    "arrival": "27",
+    "arrivalTime": "15:58",
+    "destination": "завод \"Устрем\" - Асеновгр. шосе",
+    "color": "#7C70B1",
+    "contrastColor": "white"
+  },
+  {
+    "route": "4",
+    "arrival": "31",
+    "arrivalTime": "16:01",
+    "destination": "кв.\"Тракия\" (А-13)",
+    "color": "#A76380",
+    "contrastColor": "white"
+  },
+  {
+    "route": "20",
+    "arrival": "31",
+    "arrivalTime": "16:02",
+    "destination": "кв.\" Коматево\"- последна спирка",
+    "color": "#008CD3",
+    "contrastColor": "white"
+  },
+  {
+    "route": "27",
+    "arrival": "32",
+    "arrivalTime": "16:02",
+    "destination": "кв.\" Коматево\"- последна спирка",
+    "color": "#EC7475",
+    "contrastColor": "black"
+  },
+  {
+    "route": "37",
+    "arrival": "33",
+    "arrivalTime": "16:04",
+    "destination": "ЕАЗ - \"Цар Борис ІІІ\"",
+    "color": "#008CD3",
+    "contrastColor": "white"
+  },
+  {
+    "route": "1",
+    "arrival": "34",
+    "arrivalTime": "16:05",
+    "destination": "кв.\" Коматево\"- последна спирка",
+    "color": "#63972E",
+    "contrastColor": "white"
+  },
+  {
+    "route": "11",
+    "arrival": "37",
+    "arrivalTime": "16:07",
+    "destination": "след Митница Кукленско шосе",
+    "color": "#393186",
+    "contrastColor": "white"
+  },
+  {
+    "route": "44",
+    "arrival": "37",
+    "arrivalTime": "16:07",
+    "destination": "завод \"Устрем\" - Асеновгр. шосе",
+    "color": "#7C70B1",
+    "contrastColor": "white"
+  },
+  {
+    "route": "99",
+    "arrival": "37",
+    "arrivalTime": "16:08",
+    "destination": "2-ра Авто колона",
+    "color": "#17B2AE",
+    "contrastColor": "black"
+  },
+  {
+    "route": "7",
+    "arrival": "41",
+    "arrivalTime": "16:12",
+    "destination": "Овощарски институт",
+    "color": "#A92482",
+    "contrastColor": "white"
+  },
+  {
+    "route": "26",
+    "arrival": "43",
+    "arrivalTime": "16:13",
+    "destination": "кв.\"Смирненски\"- ул.\"Юндола\"",
+    "color": "#CAD406",
+    "contrastColor": "black"
+  },
+  {
+    "route": "20",
+    "arrival": "44",
+    "arrivalTime": "16:15",
+    "destination": "кв.\" Коматево\"- последна спирка",
+    "color": "#008CD3",
+    "contrastColor": "white"
+  },
+  {
+    "route": "4",
+    "arrival": "46",
+    "arrivalTime": "16:17",
+    "destination": "кв.\"Тракия\" (А-13)",
+    "color": "#A76380",
+    "contrastColor": "white"
+  },
+  {
+    "route": "44",
+    "arrival": "46",
+    "arrivalTime": "16:16",
+    "destination": "завод \"Устрем\" - Асеновгр. шосе",
+    "color": "#7C70B1",
+    "contrastColor": "white"
+  },
+  {
+    "route": "1",
+    "arrival": "46",
+    "arrivalTime": "16:17",
+    "destination": "кв.\" Коматево\"- последна спирка",
+    "color": "#63972E",
+    "contrastColor": "white"
+  },
+  {
+    "route": "27",
+    "arrival": "46",
+    "arrivalTime": "16:17",
+    "destination": "кв.\" Коматево\"- последна спирка",
+    "color": "#EC7475",
+    "contrastColor": "black"
+  },
+  {
+    "route": "4",
+    "arrival": "49",
+    "arrivalTime": "16:19",
+    "destination": "кв.\"Тракия\" (А-13)",
+    "color": "#A76380",
+    "contrastColor": "white"
+  },
+  {
+    "route": "7",
+    "arrival": "49",
+    "arrivalTime": "16:20",
+    "destination": "Овощарски институт",
+    "color": "#A92482",
+    "contrastColor": "white"
+  },
+  {
+    "route": "20",
+    "arrival": "49",
+    "arrivalTime": "16:20",
+    "destination": "кв.\" Коматево\"- последна спирка",
+    "color": "#008CD3",
+    "contrastColor": "white"
+  },
+  {
+    "route": "99",
+    "arrival": "50",
+    "arrivalTime": "16:21",
+    "destination": "2-ра Авто колона",
+    "color": "#17B2AE",
+    "contrastColor": "black"
+  },
+  {
+    "route": "1",
+    "arrival": "60",
+    "arrivalTime": "16:30",
+    "destination": "кв.\" Коматево\"- последна спирка",
+    "color": "#63972E",
+    "contrastColor": "white"
+  },
+  {
+    "route": "1",
+    "arrival": "69",
+    "arrivalTime": "16:40",
+    "destination": "кв.\" Коматево\"- последна спирка",
+    "color": "#63972E",
+    "contrastColor": "white"
+  }
+]
