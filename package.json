@@ -6,7 +6,8 @@
     "dev": "next dev -H 0.0.0.0",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "postinstall": "npx playwright install"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.2",
